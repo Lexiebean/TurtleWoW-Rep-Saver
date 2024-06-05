@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: RepSaver
+## Author: |cffbe5effLexie
+## Notes: RepSaver
+## Version: 1.0
+## DefaultState: disabled
+## SavedVariables: RepSaver
+RepSaver.lua
